@@ -1,4 +1,4 @@
-# Monitoramento de Recursos no Azure - Laboratório Prático
+# 💻 Desafio de Monitoramento de Recursos no Azure - Laboratório Prático
 
 # Descrição  
 Este projeto demonstra como configurar e gerenciar o monitoramento de máquinas virtuais (VMs) no Microsoft Azure. O foco está em manter visibilidade, controle e resposta proativa sobre eventos críticos, como a exclusão de VMs, usando ferramentas do Azure Monitor, Log Analytics e Network Watcher.
@@ -47,3 +47,6 @@ Este projeto demonstra como configurar e gerenciar o monitoramento de máquinas 
 - [Azure Monitor Documentation](https://learn.microsoft.com/azure/azure-monitor/)  
 - [Log Analytics Overview](https://learn.microsoft.com/azure/azure-monitor/logs/log-analytics-overview)  
 - [Network Watcher Documentation](https://learn.microsoft.com/azure/network-watcher/)  
+
+📌 Jorge Daniel Halmenschlager
+📅 30 de Junho de 2025 🎓 Microsoft - Azure Administrator Certification (AZ-104)
