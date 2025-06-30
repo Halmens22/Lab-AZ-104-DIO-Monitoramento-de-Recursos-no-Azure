@@ -39,7 +39,6 @@ Este projeto demonstra como configurar e gerenciar o monitoramento de máquinas 
 
 6. **Documentar aprendizados**  
    - Registre dicas e boas práticas para futuras implementações.  
-   - Inclua capturas de tela na pasta `/images` para ilustrar o processo.
 
 # Estrutura do repositório  
 
